@@ -27,5 +27,4 @@ The purpose of the analysis is to prepare the company for upcoming retirements. 
 
 From this table that was created we can then query either average salary or total salary or both by department.  This will help us know what kinds of changes in payroll to expect soon.
 -	We saw earlier that there are 2 managers who are eligible for retirement.  It will be very beneficial to know which managers are retiring.  We can determine the managers eligible for retirement with the following query.
-<img src="screen_shots/Capture5.PNG" width="240" height="200"/>
 With this query we see that the managers eligible for retirement are from the ‘Sales’ and from the ‘Research’ departments.
