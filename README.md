@@ -11,7 +11,7 @@ The purpose of the analysis is to prepare the company for upcoming retirements. 
 
 ## Results
 -	The title with the greatest number of upcoming vacancies is Senior Engineer with 29,414 upcoming retirements.  The following title with highest number of upcoming vacancies is Senior Staff with 28,254.  Only 2 employees with the title of manager are set to retire soon, making it the title with the lowest number of upcoming retirements.
-<img src="screen_shots/Capture.PNG" width="215" height="200"/>
+<img src="screen_shots/Capture.PNG" width="240" height="200"/>
 -	Every title in the company has employees who will be retiring soon.
 -	There are 1,549 employees eligible for the mentorship program.
 <img src="screen_shots/Capture2.PNG" width="225" height="200"/>
@@ -27,4 +27,5 @@ The purpose of the analysis is to prepare the company for upcoming retirements. 
 
 From this table that was created we can then query either average salary or total salary or both by department.  This will help us know what kinds of changes in payroll to expect soon.
 -	We saw earlier that there are 2 managers who are eligible for retirement.  It will be very beneficial to know which managers are retiring.  We can determine the managers eligible for retirement with the following query.
+<img src="screen_shots/Capture5.PNG" width="400" height="180"/>
 With this query we see that the managers eligible for retirement are from the ‘Sales’ and from the ‘Research’ departments.
