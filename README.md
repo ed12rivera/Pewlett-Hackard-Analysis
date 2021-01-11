@@ -12,9 +12,12 @@ The purpose of the analysis is to prepare the company for upcoming retirements. 
 ## Results
 -	The title with the greatest number of upcoming vacancies is Senior Engineer with 29,414 upcoming retirements.  The following title with highest number of upcoming vacancies is Senior Staff with 28,254.  Only 2 employees with the title of manager are set to retire soon, making it the title with the lowest number of upcoming retirements.
 <img src="screen_shots/Capture.PNG" width="240" height="200"/>
+
 -	Every title in the company has employees who will be retiring soon.
 -	There are 1,549 employees eligible for the mentorship program.
+
 <img src="screen_shots/Capture2.PNG" width="225" height="200"/>
+
 -	Senior staff is the title with the most employees eligible for the mentorship program, 514, which closely follows the order of the number of retiring employees.  The next highest title is engineer with 462 employees eligible for the mentorship program.  There are no employees with the titles of manager who are eligible for the mentorship program. 
 <img src="screen_shots/Capture3.PNG" width="215" height="200"/>
 
